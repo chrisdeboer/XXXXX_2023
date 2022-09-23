@@ -7,8 +7,6 @@
 
 package frc.robot;
 
-import java.util.List;
-
 import com.ctre.phoenix.motorcontrol.TalonFXControlMode;
 
 import edu.wpi.first.math.geometry.Pose2d;
